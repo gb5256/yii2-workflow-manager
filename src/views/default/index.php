@@ -4,7 +4,7 @@
  */
 
 use cornernote\workflow\manager\models\Workflow;
-use yii\bootstrap\Nav;
+use yii\bootstrap5\Nav;
 use yii\helpers\Html;
 
 $this->title = Yii::t('workflow', 'Workflow');
