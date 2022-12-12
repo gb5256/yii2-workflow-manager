@@ -6,7 +6,7 @@
  */
 
 use yii\helpers\Html;
-use yii\bootstrap\ActiveForm;
+use yii\bootstrap5\ActiveForm;
 ?>
 
 <div class="workflow-default-form">
