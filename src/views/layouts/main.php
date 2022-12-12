@@ -5,8 +5,8 @@
  */
 
 use cornernote\workflow\manager\models\Workflow;
-use yii\bootstrap\Nav;
-use yii\bootstrap\NavBar;
+use yii\bootstrap5\Nav;
+use yii\bootstrap5\NavBar;
 use yii\helpers\Html;
 use yii\widgets\Breadcrumbs;
 ?>
